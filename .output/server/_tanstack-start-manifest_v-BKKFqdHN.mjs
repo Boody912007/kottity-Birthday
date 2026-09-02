@@ -1,0 +1,98 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-BKKFqdHN.js
+var tsrStartManifest = () => ({ routes: {
+	__root__: {
+		filePath: "D:/Imans-Love-Story/src/routes/__root.tsx",
+		children: [
+			"/",
+			"/letter",
+			"/memories",
+			"/our-day",
+			"/secret",
+			"/song",
+			"/story",
+			"/video",
+			"/why"
+		],
+		preloads: ["/assets/index-CwS3YkKN.js"],
+		scripts: [{ attrs: {
+			type: "module",
+			async: !0,
+			src: "/assets/index-CwS3YkKN.js"
+		} }]
+	},
+	"/": {
+		filePath: "D:/Imans-Love-Story/src/routes/index.tsx",
+		children: void 0,
+		preloads: ["/assets/routes-BBWOFVv9.js", "/assets/RomanticButton-DA3rpQpT.js"]
+	},
+	"/letter": {
+		filePath: "D:/Imans-Love-Story/src/routes/letter.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/letter-BXCihm26.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/memories": {
+		filePath: "D:/Imans-Love-Story/src/routes/memories.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/memories-BdxCPeo_.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/our-day": {
+		filePath: "D:/Imans-Love-Story/src/routes/our-day.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/our-day-CcIBKNQ5.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/secret": {
+		filePath: "D:/Imans-Love-Story/src/routes/secret.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/secret-5Ww53hPj.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/song": {
+		filePath: "D:/Imans-Love-Story/src/routes/song.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/song-BIv6krxu.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/story": {
+		filePath: "D:/Imans-Love-Story/src/routes/story.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/story-D1fGyNpz.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	},
+	"/video": {
+		filePath: "D:/Imans-Love-Story/src/routes/video.tsx",
+		children: void 0,
+		preloads: ["/assets/video-DaHREHMQ.js", "/assets/RomanticButton-DA3rpQpT.js"]
+	},
+	"/why": {
+		filePath: "D:/Imans-Love-Story/src/routes/why.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/why-BucPOfXq.js",
+			"/assets/RomanticButton-DA3rpQpT.js",
+			"/assets/PageShell-B387w4rM.js"
+		]
+	}
+} });
+//#endregion
+export { tsrStartManifest };
